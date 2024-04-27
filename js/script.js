@@ -15,7 +15,7 @@ $(document).on('click', function () {
 
 
 // Set the date we're counting down to
-var countDownDate = new Date("dec 04, 2023 19:00:00").getTime();
+var countDownDate = new Date("June 02, 2024 12:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
@@ -110,7 +110,7 @@ var styles2 = [
     , 'font-size: 32px'
 ].join(';');
 
-console.log('\n\n%c SAVE THE DATE: Dec 04, 2023!', styles);
+console.log('\n\n%c SAVE THE DATE: June 02, 2024!', styles);
 
 console.log('%cYour presence is requested!%c\n\nRegards: Rahul Jangir', styles1, styles2);
 
