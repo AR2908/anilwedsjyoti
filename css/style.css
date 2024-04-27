@@ -830,7 +830,7 @@ blockquote::after {
 	top: 100%;
 	width: 80px;
 	height: 5px;
-	background: var(--second-color);
+	
 	left: 1em;
 }
 
