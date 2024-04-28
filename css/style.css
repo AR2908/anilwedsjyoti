@@ -490,7 +490,7 @@ body.dark-mode {
 
 img {
 	max-width: 100%;
-	height: 105%;
+	height: auto;
 }
 
 @media (max-width:768px) {
