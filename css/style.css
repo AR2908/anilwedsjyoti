@@ -534,7 +534,7 @@ img {
 	font-weight: bold;
 	font-style: normal;
 	font-size: 60px;
-	margin: 32px 0;
+	margin: 20px 0;
 	color: var(--primary-color);
 }
 
@@ -564,8 +564,7 @@ img {
 	font-style: normal;
 	font-size: 32px;
 	color: var(--primary-color);
-	margin: 16px;
-	margin-top:-10px;
+	margin: 10px;
 	text-align: center;
 }
 .title h3 {
