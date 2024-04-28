@@ -571,7 +571,7 @@ img {
 .title p {
 	color: var(--primary-color);
 	margin: 30px 0 20px;
-	text-transform: uppercase;
+	ext-transform: uppercase;
 	letter-spacing: 3px;
 	font-size: 16px;
 }
