@@ -565,6 +565,7 @@ img {
 	font-size: 32px;
 	color: var(--primary-color);
 	margin: 16px;
+	margin-top:-10px;
 	text-align: center;
 }
 .title h3 {
