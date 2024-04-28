@@ -572,7 +572,7 @@ img {
 	color: var(--primary-color);
 	margin: 30px 0 20px;
 	ext-transform: uppercase;
-	letter-spacing: 3px;
+	letter-spacing: 0px;
 	font-size: 16px;
 }
 
