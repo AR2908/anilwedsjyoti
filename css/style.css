@@ -558,7 +558,7 @@ img {
 	margin: 16px;
 	text-align: center;
 }
-.rel{
+.Rel{
 	font-family: 'Dancing Script', cursive;
 	font-weight: bolder;
 	font-style: normal;
@@ -580,10 +580,16 @@ img {
 	color: var(--primary-color);
 	margin: 30px 0 20px;
 	ext-transform: uppercase;
+	letter-spacing: 3px;
+	font-size: 16px;
+}
+#re{
+	color: var(--primary-color);
+	margin: 10px 0 20px;
+	ext-transform: uppercase;
 	letter-spacing: 0px;
 	font-size: 16px;
 }
-
 .wrap {
 	height: 100vh;
 	display: -webkit-flex;
