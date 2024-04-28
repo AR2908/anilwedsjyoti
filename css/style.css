@@ -907,6 +907,7 @@ blockquote::after {
 .table_container {
 	box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
 	margin-bottom: 3.5rem;
+
 }
 
 @media (max-width: 768px) {
@@ -926,7 +927,7 @@ blockquote::after {
 
 .responsive-table__row {
 	display: grid;
-	border-bottom: 1px solid var(--primary-color-lighter);
+	border-bottom: 1px dashed var(--primary-color-lighter);
 	padding: 0 1.5rem;
 	background-color: transparent;
 	margin-bottom: 0.25rem;
