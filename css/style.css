@@ -560,6 +560,7 @@ img {
 	font-size: 32px;
 	color: var(--primary-color);
 	margin: 16px;
+	border:1px dashed rgb(110,87,224);
 	text-align: center;
 }
 .Rel{
