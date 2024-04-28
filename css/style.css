@@ -590,7 +590,7 @@ img {
 }
 #re{
 	color: var(--primary-color);
-	margin: 10px 0 20px;
+	margin: -18px 0 20px;
 	ext-transform: uppercase;
 	letter-spacing: 0px;
 	font-size: 16px;
