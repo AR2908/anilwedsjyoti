@@ -492,6 +492,11 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+.ganesh,.shubh {
+	max-width: 100%;
+	height: auto;
+	margin:2px;
+}
 
 @media (max-width:768px) {
 	img {
