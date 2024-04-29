@@ -820,17 +820,19 @@ a {
 }
 
 blockquote {
-	z-index: var(--noindex);
-	position: relative;
-	padding-left: 30px;
-	font-weight: 600;
-	color: var(--primary-color);
-	padding: 1em;
-	padding-right: 0.25em;
-	margin-left: 2.25em;
-	margin-right: 0.2em;
-	max-width: 35em;
-	font-size: 15px;
+	
+    z-index: var(--noindex);
+    position: relative;
+    padding-left: 30px;
+    font-weight: 600;
+    color: var(--primary-color);
+    padding: -1em;
+    padding-right: 0.25em;
+    margin-left: -1.75em;
+    margin-right: 0.2em;
+    max-width: 35em;
+    font-size: 15px;
+    text-align: center;
 }
 
 blockquote::before {
