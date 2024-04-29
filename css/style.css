@@ -964,7 +964,7 @@ td:first-child {
 
 .responsive-table__row th,
 .responsive-table__row td {
-	padding: 1rem;
+	padding: 0rem;
 }
 
 .responsive-table__body .responsive-table__row {
